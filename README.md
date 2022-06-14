@@ -1,0 +1,2 @@
+# Risk-Management
+This project highlights the major risks faced by business and society including credit, market, operational, strategic, reputation and enterprise-wide management risk. Drawing on actual events, several application of data analysis techniques using Python to model the market conditions during the Great Depression. Historical and economic contexts as well as financial and political trends during those times are discussed to explain how both government and individuals reacted to risks on the Stock Exchange.
